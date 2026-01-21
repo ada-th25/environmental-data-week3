@@ -99,7 +99,7 @@ Plus there are many  resources (and ready code) available for EO applications. C
 ## Assessment exercises
 Assessment will be 100% by coursework/quiz. It is open book but absolutely forbids use of any AI tools or search engines. Students can access the links of web resources provided in the class notes; students can navigate to the websites specified in the notes and navigate freely within these websites (provided they do not use AI/gen AI to help them answer questions). Use of automatic translation softwares other than plain text dictionaries or Google translate (Text only) accessed only via https://translate.google.com/ are also forbidden. You cannot use an AI models trained on the notes during the quiz or any form of AI help, but you can use a search function to find keywords within documents. 
 
-All mobile phones or other connected devices must be turned off and stored away (not on the table). Headphones cannot be used. 
+All mobile phones or other connected devices must be turned off and stored away (not on the table). Headphones cannot be used. The test can be taken on a personal laptop or tablet, but each student can only use one single device (of their choice). 
 
 Students caught using AI tools, cheating of other students, or breaching the rules specified above will be automatically given a mark of 0 (zero) and will face an academic misconduct case. 
 
